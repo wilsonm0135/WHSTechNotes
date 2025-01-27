@@ -72,3 +72,9 @@ The shift in the tech industry towards prioritizing artificial intelligence skil
 # January 22, 2025
 The ethical implications of AI-powered chatbots are significant, particularly when considering data privacy concerns. As these chatbots often require access to vast amounts of personal data to function effectively, developers must prioritize robust security measures to prevent unauthorized access or misuse of user information. This aligns with the concept of "data minimization" discussed in class, where only the necessary data should be collected and used for the intended purpose.
 Furthermore, the potential for bias in AI-generated responses presents another ethical challenge. If training data is not diverse or contains inherent biases, the chatbot may reflect those biases in its interactions, leading to discriminatory or unfair outcomes. This highlights the importance of actively addressing bias during the development process, ensuring that AI systems treat all users equitably, a key principle in software ethics we've explored in class.
+# January 22, 2025
+ | Name     | Car | Mistake |
+ | Jimmy    | Honda civic|         |
+    | Kayla    |     |         |
+    | Bart     |     |         |
+    | Harrison |     |         |
