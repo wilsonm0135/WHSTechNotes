@@ -112,3 +112,16 @@ As for whether I would use it, the answer is a definite yes. The benefits of per
 # April 14, 2025
 Banning cell phones in schools presents a complex dilemma with potential benefits and drawbacks for students. Proponents argue that such bans can minimize distractions, fostering a more focused learning environment and encouraging greater engagement with classroom activities. By reducing reliance on technology, students might be more inclined to interact with peers and teachers, promoting social skills and collaborative learning. Furthermore, a cell phone ban could potentially decrease instances of cyberbullying and inappropriate content sharing, contributing to a safer and more respectful school climate.
 However, these policies could also be detrimental. Cell phones can be valuable learning tools, providing access to information, educational apps, and communication channels for collaborative projects. Banning them might limit students’ ability to research, organize, and access resources quickly. Moreover, in emergency situations, cell phones can be crucial for contacting family and seeking help. A blanket ban could create anxiety and a sense of disconnect, particularly for students who rely on their phones for communication with family members due to safety concerns or logistical reasons. If implemented in my school, I would advocate for a more nuanced approach, such as designated phone-free zones and times, rather than a complete ban, to balance the potential benefits of technology with the need for a focused learning environment.
+# April 22, 2025
+
+
+
+
+
+
+# April 28, 2025
+| Name      | Flavor |      |Price
+| :---        |    :----:   |         ---:|
+| Sally       | Chocolate   | $35.00      |
+| micheal     |  Vanilla    | $37.00      |
+| Emma        | Carrot      | $39.00      |
