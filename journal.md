@@ -125,3 +125,10 @@ However, these policies could also be detrimental. Cell phones can be valuable l
 | Sally       | Chocolate   | $35.00      |
 | micheal     |  Vanilla    | $37.00      |
 | Emma        | Carrot      | $39.00      |
+# May 6, 2025
+
+
+In considering whether 100 unarmed individuals could defeat a silverback gorilla, I believe they would likely fail. A silverback gorilla possesses immense strength, agility, and natural instincts that far exceed those of an average human. For instance, adult male gorillas can weigh between 300 to 485 pounds and possess a bite force over 1,000 psi, which is significantly stronger than that of humans. Even with strategic coordination, the sheer physical power and combat skills of a gorilla make it improbable for 100 people to successfully overpower it. This matters because it highlights the importance of understanding animal behavior and physiology before engaging in hypothetical scenarios.
+
+Regarding the responsibility of making such challenges go viral, I argue that it can lead to misunderstandings about wildlife and promote harmful behaviors. While some may view this as entertainment, it trivializes the serious nature of animal welfare and conservation. People might learn about teamwork or strategy from the challenge; however, they may also develop misconceptions about the capabilities of both humans and animals. This phenomenon illustrates how trends spread online often prioritize sensationalism over education, blurring the lines between entertainment and informative content. It raises questions about our societal values and the need for responsible media consumption.
+
