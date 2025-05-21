@@ -132,7 +132,7 @@ In considering whether 100 unarmed individuals could defeat a silverback gorilla
 
 Regarding the responsibility of making such challenges go viral, I argue that it can lead to misunderstandings about wildlife and promote harmful behaviors. While some may view this as entertainment, it trivializes the serious nature of animal welfare and conservation. People might learn about teamwork or strategy from the challenge; however, they may also develop misconceptions about the capabilities of both humans and animals. This phenomenon illustrates how trends spread online often prioritize sensationalism over education, blurring the lines between entertainment and informative content. It raises questions about our societal values and the need for responsible media consumption.
 # May 19, 2025
-I cant wait for summer im sick of school.
+I can not wait for summer this year has been great and im glad i can relax till the start of a new semester.
 # May 12, 2025
 The "Chromebook Challenge," which involves inserting objects into USB ports, is unequivocally unethical. This trend is not only dangerous but also demonstrates a profound lack of respect for school property and the safety of others. As a digital citizen and future tech professional, it's crucial to recognize the potential harm this challenge can cause, from damaging school-provided technology to creating fire hazards that endanger the entire school community.
 
